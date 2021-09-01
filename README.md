@@ -1,2 +1,2 @@
-# Tabuada-din-mica
+# Tabuada-dinamica
 Vamos aprender tabuada ? 
